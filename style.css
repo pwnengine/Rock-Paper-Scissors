@@ -1,0 +1,30 @@
+body {
+  background-color: #161616;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.options {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+.swag-btns {
+  cursor: pointer;
+  width: 100px;
+  padding: 20px;
+  margin: 28px;
+
+  background-color: #161616;
+  border-width: 1px;
+  border-style: none;
+  border-color: white;
+  color: white;
+  font-size: larger;
+  text-align: center;
+}
